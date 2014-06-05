@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright ${date?date?string("yyyy")} UPES Grupo#2 Ingenieria en Ciencias de la ComputaciÃ³n.
+${licensePrefix}[Iddo JosÃ© Claros - JosÃ© Carlos Escobar - Carlos Amaury Tejada]
+<#if licenseLast??>
+${licenseLast}
+</#if>

@@ -19,7 +19,7 @@ Copyright 2014 UPES Grupo#2 Ingenieria en Ciencias de la Computación.
                     <div class="m_elemento"><div class="ico icoCog"></div><span>Configuración</span></div>
                     <div class="m_elemento"><div class="ico icoInfo"></div><span>Acerca de SiSTA</span></div>
                 </div>
-                <div id="usuario"><img id="loading" src="web/img/ajax-loader.gif"><span>TT200601</span><div class="ico mini icoLogout"></div></div>
+                <div id="usuario"><img id="loading" src="web/img/ajax-loader.gif" alt="Cargando..."><span>TT200601</span><div class="ico mini icoLogout"></div></div>
             </div>
             <div id="sistacontent">
                 <div id="sistaroute">SiSTA >> Trámites</div>
