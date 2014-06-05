@@ -6,7 +6,7 @@ Copyright 2014 UPES Grupo#2 Ingenieria en Ciencias de la Computación.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>SiSTA Login</title>
+        <title>SiSTA</title>
         <link href="web/css/login.css" type="text/css" rel="stylesheet">
     </head>
     <body>
