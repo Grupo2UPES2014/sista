@@ -6,7 +6,7 @@ Copyright 2014 UPES Grupo#2 Ingenieria en Ciencias de la Computación.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>SiSTA Gui</title>
+        <title>SiSTA</title>
         <link href="web/css/gui.css" rel="stylesheet" type="text/css">
     </head>
     <body>
