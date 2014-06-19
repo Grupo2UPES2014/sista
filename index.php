@@ -24,7 +24,10 @@ Copyright 2014 UPES Grupo#2 Ingenieria en Ciencias de la Computación.
             <div id="sistacontent">
                 <div id="sistaroute">SiSTA >> Trámites</div>
                 <div id="sistadesktop">
-                    
+                    <button onclick="javascript:Mensaje('Test','Mensaje de prueba',3)">OK</button>
+                    <button onclick="javascript:Mensaje('Test','Mensaje de prueba',0)">Alerta</button>
+                    <button onclick="javascript:Mensaje('Test','Mensaje de prueba',1)">Error</button>
+                    <button onclick="javascript:Mensaje('Test','Mensaje de prueba',2)">Info</button>
                 </div>
                 <div id="sistamensajes"></div>
             </div>
