@@ -13,7 +13,7 @@ Copyright 2014 UPES Grupo#2 Ingenieria en Ciencias de la Computación.
     </head>
     <body>
         <img src="web/img/logo5.png" id="logo" alt="Logo SiSTA">
-        <div id="franja"></div>
+        <div id="franja"><span>Sistema de Seguimiento de Trámites Académicos</span></div>
         <div id="login"><div id="icon"><img src="web/img/door.png" alt="LOGIN"><div></div></div><div id="form">
                 <div>
                     <h2>Iniciar Sesión</h2>

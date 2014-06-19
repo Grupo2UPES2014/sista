@@ -46,6 +46,13 @@ div#franja
     top: 30px;
     z-index: 1;
 }
+div#franja span
+{
+    margin-left: 210px;
+    color: #ffffff;
+    vertical-align: middle;
+    line-height: 53px;
+}
 div#icon
 {
     display: inline-block;
